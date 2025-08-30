@@ -1,5 +1,6 @@
 # 🎮 Pentago 
 
+<img width="440" height="440" alt="file_00000000c95061fa9e0783d841cef317" src="https://github.com/user-attachments/assets/3c4fc15c-b02b-4755-b09d-921a793e357e" />
 
 ## 📖 About  
 **Pentago** is a captivating two-player strategy game where players compete to align five marbles in a row while dynamically rotating the game board. This Java implementation was developed under the supervision of [Prof. Hossein Zeinali](https://scholar.google.com/citations?user=KaGpFx8AAAAJ&hl=en) during Spring 2020.
